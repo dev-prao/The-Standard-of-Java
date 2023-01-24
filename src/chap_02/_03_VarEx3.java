@@ -104,5 +104,31 @@ public class _03_VarEx3 {
         System.out.println(name2);
         String name3 = name2 + 8.0;
         System.out.println(name3);
+
+        System.out.println("-----------------------");
+
+//        문자열 + any type -> 문자열 + 문자열 -> 문자열
+//        any type + 문자열 -> 문자열 + 문자열 -> 문자열
+//        예제
+        System.out.println(7+"7"); // "77"
+        System.out.println(" " + 7); // " 7"
+        System.out.println(7 + 7 + ""); // "14"
+        System.out.println(true + ""); // "true"
+        System.out.println(null + ""); // "null"
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
