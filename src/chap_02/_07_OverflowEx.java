@@ -1,6 +1,6 @@
 package chap_02;
 
-public class OverflowEx {
+public class _07_OverflowEx {
     public static void main(String[] args) {
         short sMin = -32768;
         short sMax = 32767;
