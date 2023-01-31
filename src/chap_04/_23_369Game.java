@@ -33,4 +33,4 @@ public class _23_369Game {
         }
         System.out.println(answer);
     }
-} // 구구단 다시 만들어
+}
