@@ -34,7 +34,7 @@ public class _29_Calculator_Answer {
                 if (num==0)
                     break;
 
-                if (num==9)
+                if (num==99)
                     break outer;
 
                 switch (menu) {
