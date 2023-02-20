@@ -1,19 +1,25 @@
 package chap_06;
 
 public class _16_FactorialEx2 {
-    public static void main(String[] args) {
-        int result = factorial(4);
-
-        System.out.println(result);
+    static long factorial(int n) {
+        if (n <= 0 || n > 20) return -1;
+        if (n <= 1) return 1;
+        return n * factorial(n - 1);
     }
 
-    static int factorial(int n) {
-        int result = 0;
-        if (n == 1)
-            result = 1;
-        else
-            result = n * factorial(n - 1);
+    public static void main(String[] args) {
+        int n = 21;
+        long result = 0;
 
-        return result;
+        for (int i = 1; i <= n; i++) {
+            result = factorial(i);
+
+            if (result == -1) {
+                System.out.printf("유효하지 않은 값입니다.(0<n<=20):%d%n", n);
+                break;
+            }
+
+            System.out.printf("%2d!=%20d%n", i, result);
+        }
     }
 }
