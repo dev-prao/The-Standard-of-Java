@@ -32,3 +32,5 @@ class MemberCall {
         instanceMethod1();
     }
 }
+
+public class _20_MemberCall {}
