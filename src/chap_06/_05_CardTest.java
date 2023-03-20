@@ -21,7 +21,8 @@ public class _05_CardTest {
         );
 
         c1.width = 50;
-        c2.height = 80;
+        c1.height = 80;
+//        Card.width = 180;
 
         System.out.println(
                 "c1은 " + c1.kind + ", " + c1.number + "이며, 크기는 (" + c1.width + ", " + c1.height + ")"
