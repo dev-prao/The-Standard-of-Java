@@ -3,22 +3,22 @@ package chap_06;
 class Car3 {
     String color;       // 색상
     String gearType;    // 변속기 종류 - auto(자동), manual(수동)
-    int    door;        // 문의 개수
+    int door;        // 문의 개수
 
     Car3() {
         this("white", "auto", 4);
     }
 
     Car3(Car3 c) {      // 인스턴스의 복사를 위한 생성자
-        color    = c.color;
+        color = c.color;
         gearType = c.gearType;
-        door     = c.door;
+        door = c.door;
     }
 
     Car3(String color, String gearType, int door) {
-        this.color    = color;
+        this.color = color;
         this.gearType = gearType;
-        this.door     = door;
+        this.door = door;
     }
 }
 
@@ -35,3 +35,4 @@ public class _26_CarTest3 {
         System.out.println("c2의 color = " + c2.color + ", gearType = " + c2.gearType + ", door = " + c2.door);
     }
 }
+

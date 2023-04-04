@@ -8,14 +8,14 @@ public class _01_ArrayEx {
         int[] iArr2 = new int[10];
 //        int[] iArr3 = new int[]{100,95,80,70,60};
         int[] iArr3 = {100, 95, 80, 70, 60};
-        char[] chArr = {'a','b','c','d'};
+        char[] chArr = {'a', 'b', 'c', 'd'};
 
-        for (int i = 0; i < iArr1.length ; i++) {
+        for (int i = 0; i < iArr1.length; i++) {
             iArr1[i] = i + 1; // 1~10의 숫자를 순서대로 배열에 넣는다.
         }
 
         for (int i = 0; i < iArr2.length; i++) {
-            iArr2[i] = (int)(Math.random()*10) + 1; // 1~10의 값을 배열에 저장
+            iArr2[i] = (int) (Math.random() * 10) + 1; // 1~10의 값을 배열에 저장
         }
 
         // 배열에 저장된 값들을 출력한다.
