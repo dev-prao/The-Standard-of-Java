@@ -1,0 +1,15 @@
+
+n	java:S101)"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(√мЅґ€€€€€8Тдеўф0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(џЎЭ¬8Цдеўф0
+q
+java:S1845"ORename method "power" to prevent any misunderstanding/clash with field "power".(ћЄпџэ€€€€8“деўф0
+Э
+java:S1186"АAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ЮЂЭF8ждеўф0
+Ю
+java:S1186"АAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(№ѕјЅ8ждеўф0
+£
+java:S1186""АAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ћВƒГщ€€€€8ждеўф0
+Ю
+java:S1186%"АAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(МуњІ8ждеўф0
+q
+java:S1845"ORename method "power" to prevent any misunderstanding/clash with field "power".(ћЄпџэ€€€€8здеўф0

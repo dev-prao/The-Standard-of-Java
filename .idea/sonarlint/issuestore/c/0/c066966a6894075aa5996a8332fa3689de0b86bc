@@ -1,0 +1,47 @@
+
+q
+java:S1192"VDefine a constant instead of duplicating this literal "%d >> %d = %4d \t%s%n" 6 times.(àåê‡ûÿÿÿÿ
+l
+java:S1192"VDefine a constant instead of duplicating this literal "%d << %d = %4d \t%s%n" 6 times.(÷«‚
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾¸öüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÇƒİøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àåê‡ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àåê‡ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àåê‡ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷«‚
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷«‚
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷«‚
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àåê‡ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àåê‡ûÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(àåê‡ûÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(÷«‚
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(÷«‚
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(÷«‚
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(µ­H
+M	java:S106."9Replace this use of System.out or System.err by a logger.(µ­H
+/
+java:S2183"Remove this useless shift(¬Öè
+/
+java:S2183"Remove this useless shift(¬Öè
+4
+java:S2183"Remove this useless shift(Ÿ“ı¶ıÿÿÿÿ
+4
+java:S2183"Remove this useless shift(Ÿ“ı¶ıÿÿÿÿ
+/
+java:S2183"Remove this useless shift(¬Öè
+/
+java:S2183"Remove this useless shift(¬Öè
+4
+java:S2183$"Remove this useless shift(Ÿ“ı¶ıÿÿÿÿ
+4
+java:S2183$"Remove this useless shift(Ÿ“ı¶ıÿÿÿÿ
+/
+java:S2183-"Remove this useless shift(¬Öè
+/
+java:S2183-"Remove this useless shift(¬Öè
+/
+java:S2183/"Remove this useless shift(è¼éê
+/
+java:S2183/"Remove this useless shift(è¼éê

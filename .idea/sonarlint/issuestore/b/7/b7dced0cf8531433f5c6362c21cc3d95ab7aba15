@@ -1,0 +1,11 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ôİˆ“øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö×Ôş
+6
+java:S1659"!Declare "sum" on a separate line.(ŒÁ¿-
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Í³àªùÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Œ¶Éşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¶Éşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(º—ìˆúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ùğëş

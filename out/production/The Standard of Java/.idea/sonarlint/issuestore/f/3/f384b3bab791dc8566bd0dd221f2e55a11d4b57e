@@ -1,0 +1,32 @@
+
+q
+java:S1192"TDefine a constant instead of duplicating this literal "ì´ë©°, í¬ê¸°ëŠ” (" 4 times.(µªˆ 8¬…Ãâô0
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”·Àğûÿÿÿÿ8±…Ãâô0
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÖ 8´…Ãâô0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùº«‘úÿÿÿÿ8•†Ãâô0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ãÊÛÜ8•†Ãâô0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8™†Ãâô0
+R
+java:S2209"5Change this instance-reference to a static reference.(µªˆ 8†Ãâô0
+R
+java:S2209"5Change this instance-reference to a static reference.(µªˆ 8†Ãâô0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8Ÿ†Ãâô0
+R
+java:S2209"5Change this instance-reference to a static reference.(Îì¡…8Ÿ†Ãâô0
+R
+java:S2209"5Change this instance-reference to a static reference.(Îì¡…8Ÿ†Ãâô0
+W
+java:S2209"5Change this instance-reference to a static reference.(ö¼¤¬ûÿÿÿÿ8 †Ãâô0
+Q
+java:S2209"5Change this instance-reference to a static reference.(·Û§8 †Ãâô0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8 †Ãâô0
+X	java:S125"<This block of commented-out lines of code should be removed.(ë©ó„8¡†Ãâô0
+R
+java:S2209"5Change this instance-reference to a static reference.(µªˆ 8¡†Ãâô0
+R
+java:S2209"5Change this instance-reference to a static reference.(µªˆ 8¡†Ãâô0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8¢†Ãâô0
+R
+java:S2209"5Change this instance-reference to a static reference.(Îì¡…8¢†Ãâô0
+R
+java:S2209"5Change this instance-reference to a static reference.(Îì¡…8¢†Ãâô0

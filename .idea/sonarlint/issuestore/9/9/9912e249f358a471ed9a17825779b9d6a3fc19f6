@@ -1,0 +1,26 @@
+
+e
+java:S1192#"JDefine a constant instead of duplicating this literal "result=%d" 3 times.(©•¸çùÿÿÿÿ
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(æç¯™
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÏÕüò
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö×Ôş
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘
+S
+java:S1854"8Remove this useless assignment to local variable "tmp2".(šæÏúÿÿÿÿÿ
+V
+java:S1119";Refactor the code to remove this label and the need for it.(Ãºùøşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÖœ€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­ÉŒà
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ¶†æşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡òÃ¡üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†İÚûÿÿÿÿ
+D
+java:S1481")Remove this unused "tmp2" local variable.(šæÏúÿÿÿÿÿ
+a	java:S128$"LEnd this switch case with an unconditional break, return or throw statement.(ÊÊÄ­
+f	java:S128#"LEnd this switch case with an unconditional break, return or throw statement.(©•¸çùÿÿÿÿ
+<	java:S131"""Add a default case to this switch.(³›¯°ùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(©•¸çùÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ÊÊÄ­
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Àş¤•ùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

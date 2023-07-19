@@ -1,0 +1,15 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ë©Ú÷ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñèã
+Y
+java:S3518	"CMake sure this expression can't be zero before doing this division.(“Å“ğ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(€Ë²:
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç‚ş©ÿÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(“Å“ğ
+`
+java:S1764	"JCorrect one of the identical sub-expressions on both sides of operator "/"(“Å“ğ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ö…¾³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç·š
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º‚‰Œÿÿÿÿÿ

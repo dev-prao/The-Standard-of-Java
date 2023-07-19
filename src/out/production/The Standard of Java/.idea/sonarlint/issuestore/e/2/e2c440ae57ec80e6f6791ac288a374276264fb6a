@@ -1,0 +1,14 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÅÏ†øÿÿÿÿ8å«ôõ0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛØÂ8æ«ôõ0
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ôæµË8é«ôõ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(òĞˆ‘8é«ôõ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­Ö”©üÿÿÿÿ8é«ôõ0
+E
+java:S2387"("x" is the name of a field in "Parent1".(µ¸º8é«ôõ0
+W
+java:S1161":Add the "@Override" annotation above this method signature(Ìâû 8ê«ôõ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õ«ïºúÿÿÿÿ8ê«ôõ0
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8ê«ôõ0
