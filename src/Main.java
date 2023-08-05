@@ -14,7 +14,7 @@ public class Main {
         int sum = 0;
 
         for(int i = a; i <= b; i++) {
-            if (i % 3 == 0) {
+            if (i % 4 == 0) {
                 sum += i;
             }
         }
